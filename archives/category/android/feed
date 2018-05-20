@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Androidアプリ &#8211; AUGMENT8（オグハチ）</title>
+	<atom:link href="http://augment8.me/archives/category/android/feed" rel="self" type="application/rss+xml" />
+	<link>http://augment8.me</link>
+	<description>イベントを盛り上げるクリエイティブユニット</description>
+	<lastBuildDate>Wed, 21 Dec 2016 22:51:02 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>とおせ!提案書のサイトをつくりました</title>
+		<link>http://augment8.me/archives/879</link>
+		<comments>http://augment8.me/archives/879#respond</comments>
+		<pubDate>Wed, 24 Oct 2012 15:18:31 +0000</pubDate>
+		<dc:creator><![CDATA[kwkm]]></dc:creator>
+				<category><![CDATA[Androidアプリ]]></category>
+		<category><![CDATA[Webサイト]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=879</guid>
+		<description><![CDATA[A8D: 0の出し物として作った「とおせ!提案書」のゲームサイトと説明サイトをつくりました。 とおせ!提案書公式サイト とおせ!提案書システム説明サイト]]></description>
+		<wfw:commentRss>http://augment8.me/archives/879/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Androidアプリ「picton dog battery」をリリースしました</title>
+		<link>http://augment8.me/archives/810</link>
+		<comments>http://augment8.me/archives/810#respond</comments>
+		<pubDate>Tue, 10 Apr 2012 06:49:23 +0000</pubDate>
+		<dc:creator><![CDATA[sugarspot]]></dc:creator>
+				<category><![CDATA[Androidアプリ]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=810</guid>
+		<description><![CDATA[AUGMENT8の佐藤です。 PICTON DESIGN WORK STUDIOとSUGARSPOTのコラボレーションでpicton dog batteryというAndroidアプリをリリースしました picton do [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/810/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Androidアプリ「RapidMail」をリリースしました</title>
+		<link>http://augment8.me/archives/790</link>
+		<comments>http://augment8.me/archives/790#respond</comments>
+		<pubDate>Fri, 07 Oct 2011 05:39:03 +0000</pubDate>
+		<dc:creator><![CDATA[sugarspot]]></dc:creator>
+				<category><![CDATA[Androidアプリ]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=790</guid>
+		<description><![CDATA[AUGMENT8の佐藤です。この度、SUGARSPOTにてRapidMailというAndroidアプリをリリースしました RapidMailは、よく送る内容のメールを簡単に送信できる&#8221;メール送信サポートアプリ [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/790/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Androidアプリ「うさ時計」をリリースしました。</title>
+		<link>http://augment8.me/archives/780</link>
+		<comments>http://augment8.me/archives/780#respond</comments>
+		<pubDate>Sat, 10 Sep 2011 10:07:22 +0000</pubDate>
+		<dc:creator><![CDATA[tripot_ken]]></dc:creator>
+				<category><![CDATA[Androidアプリ]]></category>
+		<category><![CDATA[デザイン]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=780</guid>
+		<description><![CDATA[Androidアプリがリリース！！ Androidアプリ「うさ時計」をリリースしました。 今年の干支のウサギの時計です。 「うさ時計」「RabbitClock」でAndoroidMarketからダウンロードしてください。]]></description>
+		<wfw:commentRss>http://augment8.me/archives/780/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>スマートフォンを盛り上げる「萌えゆる」サイトオープンしました。</title>
+		<link>http://augment8.me/archives/771</link>
+		<comments>http://augment8.me/archives/771#respond</comments>
+		<pubDate>Sat, 10 Sep 2011 09:33:42 +0000</pubDate>
+		<dc:creator><![CDATA[tripot_ken]]></dc:creator>
+				<category><![CDATA[Androidアプリ]]></category>
+		<category><![CDATA[iPhoneアプリ]]></category>
+		<category><![CDATA[その他]]></category>
+		<category><![CDATA[デザイン]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=771</guid>
+		<description><![CDATA[「萌え」と「ゆる」でスマートフォンを盛り上げる「萌えゆる」サイトをオープンしました。ここから、萌えでゆるなスマートフォンアプリをリリースして行きます。 基本的には、iPhoneアプリとAndroidアプリを考えていますが [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/771/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Androidアプリ作成・講師（アップインベンター（AppInventer））</title>
+		<link>http://augment8.me/archives/769</link>
+		<comments>http://augment8.me/archives/769#respond</comments>
+		<pubDate>Sat, 10 Sep 2011 09:30:28 +0000</pubDate>
+		<dc:creator><![CDATA[tripot_ken]]></dc:creator>
+				<category><![CDATA[Androidアプリ]]></category>
+		<category><![CDATA[セミナー講師]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=769</guid>
+		<description><![CDATA[広島コンピュータ専門学校・同窓会（アップインベンター（GoogleAppInventer）で、Androidアプリ作成） ７月１３，２０、２７日の３日間の講師をいたしました。 1.5時間ｘ3日の合計4.5時間で、簡単なサ [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/769/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

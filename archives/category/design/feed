@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>デザイン &#8211; AUGMENT8（オグハチ）</title>
+	<atom:link href="http://augment8.me/archives/category/design/feed" rel="self" type="application/rss+xml" />
+	<link>http://augment8.me</link>
+	<description>イベントを盛り上げるクリエイティブユニット</description>
+	<lastBuildDate>Wed, 21 Dec 2016 22:51:02 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Androidアプリ「うさ時計」をリリースしました。</title>
+		<link>http://augment8.me/archives/780</link>
+		<comments>http://augment8.me/archives/780#respond</comments>
+		<pubDate>Sat, 10 Sep 2011 10:07:22 +0000</pubDate>
+		<dc:creator><![CDATA[tripot_ken]]></dc:creator>
+				<category><![CDATA[Androidアプリ]]></category>
+		<category><![CDATA[デザイン]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=780</guid>
+		<description><![CDATA[Androidアプリがリリース！！ Androidアプリ「うさ時計」をリリースしました。 今年の干支のウサギの時計です。 「うさ時計」「RabbitClock」でAndoroidMarketからダウンロードしてください。]]></description>
+		<wfw:commentRss>http://augment8.me/archives/780/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>スマートフォンを盛り上げる「萌えゆる」サイトオープンしました。</title>
+		<link>http://augment8.me/archives/771</link>
+		<comments>http://augment8.me/archives/771#respond</comments>
+		<pubDate>Sat, 10 Sep 2011 09:33:42 +0000</pubDate>
+		<dc:creator><![CDATA[tripot_ken]]></dc:creator>
+				<category><![CDATA[Androidアプリ]]></category>
+		<category><![CDATA[iPhoneアプリ]]></category>
+		<category><![CDATA[その他]]></category>
+		<category><![CDATA[デザイン]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=771</guid>
+		<description><![CDATA[「萌え」と「ゆる」でスマートフォンを盛り上げる「萌えゆる」サイトをオープンしました。ここから、萌えでゆるなスマートフォンアプリをリリースして行きます。 基本的には、iPhoneアプリとAndroidアプリを考えていますが [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/771/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

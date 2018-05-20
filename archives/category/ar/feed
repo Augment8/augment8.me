@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AR（拡張現実） &#8211; AUGMENT8（オグハチ）</title>
+	<atom:link href="http://augment8.me/archives/category/ar/feed" rel="self" type="application/rss+xml" />
+	<link>http://augment8.me</link>
+	<description>イベントを盛り上げるクリエイティブユニット</description>
+	<lastBuildDate>Wed, 21 Dec 2016 22:51:02 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>体認識デジタルサイネージ「なりきりトマトン」横川ふしぎ市</title>
+		<link>http://augment8.me/archives/776</link>
+		<comments>http://augment8.me/archives/776#respond</comments>
+		<pubDate>Sat, 10 Sep 2011 09:54:24 +0000</pubDate>
+		<dc:creator><![CDATA[tripot_ken]]></dc:creator>
+				<category><![CDATA[AR（拡張現実）]]></category>
+		<category><![CDATA[システム開発]]></category>
+		<category><![CDATA[デジタルサイネージ]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=776</guid>
+		<description><![CDATA[４月２４日横川商店街、「横川ふしぎ市」にて、MicrosoftKINECTを使った、体認識デジタルサイネージ「Joy-ad（ジョイアド）」を使った、デジタルサイネージを実施しました。]]></description>
+		<wfw:commentRss>http://augment8.me/archives/776/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>「サンフレッチェ広島2011開幕イベント」で顔認識デジタルサイネージ。</title>
+		<link>http://augment8.me/archives/758</link>
+		<comments>http://augment8.me/archives/758#respond</comments>
+		<pubDate>Sat, 10 Sep 2011 09:15:41 +0000</pubDate>
+		<dc:creator><![CDATA[tripot_ken]]></dc:creator>
+				<category><![CDATA[AR（拡張現実）]]></category>
+		<category><![CDATA[システム開発]]></category>
+		<category><![CDATA[デジタルサイネージ]]></category>
+		<category><![CDATA[Flash]]></category>
+		<category><![CDATA[サンフレッチェ]]></category>
+		<category><![CDATA[顔認識]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=758</guid>
+		<description><![CDATA[２月２６日（土）広島駅南口地下広場にて、サンフレッチェ広島２０１１開幕イベント『ＷＥ　ＦＩＧＨＴ　ＴＯＧＥＴＨＥＲ　奪取！！』にジョイアドを使った、顔認識デジタルサイネージ出店しました。 サンフレッチェ広島２０１１開幕イ [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/758/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

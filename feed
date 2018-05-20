@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AUGMENT8（オグハチ）</title>
+	<atom:link href="http://augment8.me/feed" rel="self" type="application/rss+xml" />
+	<link>http://augment8.me</link>
+	<description>イベントを盛り上げるクリエイティブユニット</description>
+	<lastBuildDate>Wed, 21 Dec 2016 22:51:02 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>「すごい合同勉強会2014 in  広島」を開催しました</title>
+		<link>http://augment8.me/archives/1075</link>
+		<comments>http://augment8.me/archives/1075#respond</comments>
+		<pubDate>Sat, 01 Nov 2014 09:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[eiel]]></dc:creator>
+				<category><![CDATA[イベントレポート]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=1075</guid>
+		<description><![CDATA[こんにちは。ひむらです すごい合同勉強会という広島のIT系コミュニティの合同勉強会を開催しました。 この勉強会は広島市立大学の市大祭で出し物でプログラミング同好会が主催していますが、運営として携われいただきました。 県外 [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/1075/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>「DevLOVE広島　第一回（夏の陣）」で登壇しました</title>
+		<link>http://augment8.me/archives/1065</link>
+		<comments>http://augment8.me/archives/1065#respond</comments>
+		<pubDate>Fri, 27 Jun 2014 05:40:25 +0000</pubDate>
+		<dc:creator><![CDATA[eiel]]></dc:creator>
+				<category><![CDATA[セミナー講師]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=1065</guid>
+		<description><![CDATA[こんにちは。 火村です。 現場の環境を「楽しい」に改善しようとする人たちのためのセミナーを行うDevLOVEというものがあります。その広島の第１回となるイベントで「エンジニアリングの楽しさ」というテーマで登壇致しました。 [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/1065/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>LT駆動開発01を開催しました。</title>
+		<link>http://augment8.me/archives/1060</link>
+		<comments>http://augment8.me/archives/1060#respond</comments>
+		<pubDate>Sat, 01 Mar 2014 14:01:02 +0000</pubDate>
+		<dc:creator><![CDATA[eiel]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=1060</guid>
+		<description><![CDATA[こんにちは、ひむらです。 LT駆動開発01を開催しました。LT駆動開発というのは開発する際に毎月ライトニングトークをするつもりで開発しよう。という主旨の勉強会です。ライトニングトークというのは5分から10分の短いセッショ [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/1060/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>「モバイル見積もり勉強会 IN 広島」を開催しました</title>
+		<link>http://augment8.me/archives/1054</link>
+		<comments>http://augment8.me/archives/1054#respond</comments>
+		<pubDate>Thu, 20 Feb 2014 10:35:15 +0000</pubDate>
+		<dc:creator><![CDATA[sugarspot]]></dc:creator>
+				<category><![CDATA[イベントレポート]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=1054</guid>
+		<description><![CDATA[佐藤です。 イベントはAugment8で開催したものではないのですが「モバイル見積もり勉強会 IN 広島」という勉強会を開催したのでご報告です モバイル見積もり勉強会はスマートフォン向けのアプリ開発の案件を発注したい人や [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/1054/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>「オープンセミナー2014@広島」を開催しました</title>
+		<link>http://augment8.me/archives/1050</link>
+		<comments>http://augment8.me/archives/1050#respond</comments>
+		<pubDate>Mon, 03 Feb 2014 04:23:16 +0000</pubDate>
+		<dc:creator><![CDATA[eiel]]></dc:creator>
+				<category><![CDATA[イベントレポート]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=1050</guid>
+		<description><![CDATA[こんにちは。火村です。 2014年2月1日にオープンセミナー2014@広島を開催しました。 オープンセミナーはIT技術者向けの無料のセミナーで、私は実行委員長という立場で、テーマ決め、講師への講演依頼、司会、ウェブサイト [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/1050/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>合同勉強会 in 大都会岡山 -2013 Winter- &#038; 忘年会議2013 でライトニングトークをしました</title>
+		<link>http://augment8.me/archives/1038</link>
+		<comments>http://augment8.me/archives/1038#respond</comments>
+		<pubDate>Sat, 14 Dec 2013 14:59:58 +0000</pubDate>
+		<dc:creator><![CDATA[eiel]]></dc:creator>
+				<category><![CDATA[イベントレポート]]></category>
+		<category><![CDATA[セミナー講師]]></category>
+		<category><![CDATA[レポート]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=1038</guid>
+		<description><![CDATA[こんにちは、火村です。 合同勉強会 in 大都会岡山 -2013 Winter- と忘年会議2013にてライトニングトークをしてきました。 合同勉強会in大都会岡山は、岡山県近辺のIT勉強会コミュニティによる、合同勉強会 [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/1038/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WEB TOUCH MEETING #62にて登壇</title>
+		<link>http://augment8.me/archives/1034</link>
+		<comments>http://augment8.me/archives/1034#respond</comments>
+		<pubDate>Sat, 14 Dec 2013 14:59:39 +0000</pubDate>
+		<dc:creator><![CDATA[sugarspot]]></dc:creator>
+				<category><![CDATA[イベントレポート]]></category>
+		<category><![CDATA[セミナー講師]]></category>
+		<category><![CDATA[レポート]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=1034</guid>
+		<description><![CDATA[こんにちは、佐藤です 2013年12月14日に開催されたWTM(WEB TOUCH MEETING) #62にて「Monacaで簡単アプリ開発」というタイトルで話しをさせて頂きました MonacaはWeb上でスマートフォ [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/1034/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IT交流勉強会で稲妻トークしてきました</title>
+		<link>http://augment8.me/archives/1021</link>
+		<comments>http://augment8.me/archives/1021#respond</comments>
+		<pubDate>Mon, 09 Dec 2013 08:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[sugarspot]]></dc:creator>
+				<category><![CDATA[イベントレポート]]></category>
+		<category><![CDATA[セミナー講師]]></category>
+		<category><![CDATA[レポート]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=1021</guid>
+		<description><![CDATA[2013年12月7日(土)に近畿大学 工学部で開催されたIT交流勉強会に西村、火村、佐藤の３人が参加してきました IT交流勉強会の資料 : http://buturi.heteml.jp/ITmeeting/2013.p [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/1021/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CSS Nite in HIROSHIMA Vol.7 を開催しました</title>
+		<link>http://augment8.me/archives/1040</link>
+		<comments>http://augment8.me/archives/1040#respond</comments>
+		<pubDate>Sat, 16 Nov 2013 14:59:20 +0000</pubDate>
+		<dc:creator><![CDATA[eiel]]></dc:creator>
+				<category><![CDATA[イベントレポート]]></category>
+		<category><![CDATA[レポート]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=1040</guid>
+		<description><![CDATA[こんにちは。火村です。 オグハチのメンバーの多くがスタッフとして参加しているCSS Nite in HIROSHIMA Vol.7が開催されました。 CSS Nite（シーエスエス・ナイト）は、Web制作に関わる方のため [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/1040/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>広島Ruby勉強会 #035</title>
+		<link>http://augment8.me/archives/1016</link>
+		<comments>http://augment8.me/archives/1016#respond</comments>
+		<pubDate>Sun, 03 Nov 2013 03:35:08 +0000</pubDate>
+		<dc:creator><![CDATA[eiel]]></dc:creator>
+				<category><![CDATA[セミナー講師]]></category>
+
+		<guid isPermaLink="false">http://augment8.org/?p=1016</guid>
+		<description><![CDATA[広島Ruby勉強会 #035を開催しました。以前にも書きましたが、セッションの練習すること中心にしています。今回もたくさんの発表者がいました。 情報を伝えようとすることで自分のわからない部分を発見しようとする主旨です。私 [&#8230;]]]></description>
+		<wfw:commentRss>http://augment8.me/archives/1016/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

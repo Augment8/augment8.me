@@ -1,0 +1,129 @@
+@charset "utf-8";
+/*==============================================================================
+YUI CSS RESET
+==============================================================================*/
+html{color:#666;background:#FFF;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img{border:0;}
+address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
+li{list-style:none;}
+caption,th{text-align:left;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+q:before,q:after{content:'';}
+abbr,acronym{border:0;font-variant:normal;}
+sup{vertical-align:text-top;}
+sub{vertical-align:text-bottom;}
+input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}
+input,textarea,select{*font-size:100%;}
+legend{color:#000;}
+
+/*==============================================================================
+common
+==============================================================================*/
+html{background:url(../img/common/bg.jpg) repeat 0 0;}
+
+*{font-size:14px; line-height:1.7;}
+
+body{}
+
+img{}
+a{color:#E03837;}
+a:link{}
+a:visited{}
+a:hover{}
+a:active{}
+
+a:hover img{
+	filter: alpha(opacity=70); /* For IE */
+	opacity: 0.7; /* Opera・Safari */
+	-moz-opacity: 0.7; /* For FireFox */
+}
+
+
+#contents {width:940px; margin:0 auto;}
+#contents #footer {margin:0 0 50px 0;text-align:center; font-size:12px;}
+
+/*==============================================================================
+common
+==============================================================================*/
+#info{
+	background:#fff; 
+	padding:10px; 
+	margin:20px 0 40px 0; 
+	overflow:hidden; 
+	height:100%;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.50);
+	-moz-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.50);
+	-webkit-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.50);
+}
+#info img.mainImg{float:left;}
+#info h2{float:left; margin:163px 0 0 10px;}
+#info h2 img.title{margin-bottom:10px;}
+#info h2 span img{padding-right:5px;}
+
+h1{ padding:18px 0 0 0; margin:0 0 30px 0;}
+
+#wrapper{margin:0 -30px 0 0; overflow:hidden; height:100%;}
+#wrapper .section{
+	width:920px; 
+	background:#fff; 
+	padding:10px; 
+	margin:0 20px 20px 0;
+	overflow:hidden;
+	height:100%;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.50);
+	-moz-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.50);
+	-webkit-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.50);
+}
+#wrapper .section.column2{width:440px; float:left;} 
+
+#wrapper .section h3{ font-size:15px; border-bottom:2px solid #000; color:#000; margin-bottom:10px;}
+#wrapper .section p{margin-bottom:10px;}
+
+#wrapper .section table {}
+#wrapper .section table th,
+#wrapper .section table td{border-top:1px solid #eee;border-bottom:1px solid #eee;}
+#wrapper .section table th{}
+#wrapper .section table td{}
+#wrapper .section ul li {margin:0 0 10px 0;}
+
+#wrapper .section ul.gallery {margin:0 -10px 0 0; overflow:hidden; height:100%;}
+#wrapper .section ul.gallery li {float:left; margin:0 10px 0 0;}
+
+
+/*==============================================================================
+index.html
+==============================================================================*/
+body#top #contents {background:url(../img/top/topMain.png) no-repeat 0 0; padding:210px 0 0 0;}
+
+body#top h1{margin:0 0 30px 0}
+
+body#top ul.member{margin:0 -10px 35px 0; overflow:hidden; height:100%;}
+body#top ul.member li{float:left; margin:0 8px 0 0;}
+
+body#top #program {overflow:hidden; height:100%; margin:0 -20px 50px 0;}
+body#top #program .item{
+	float:left; 
+	padding:10px; 
+	margin:0 20px 20px 0; 
+	background:#fff;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.50);
+	-moz-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.50);
+	-webkit-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.50);
+}
+body#top #program .item h2{margin:10px 0 0 0;}
+body#top #program .item p.dev{margin:-32px 0 0 0; text-align:right; padding-bottom:0px;}
+body#top #program .item p.dev img{padding-left:5px;}
+
+/*==============================================================================
+about.html
+==============================================================================*/
+body#about .section ul.member li img{width:40px; padding:0 5px 0 0;}
+
+/*==============================================================================
+program page
+==============================================================================*/
+body#program{}
+
+
